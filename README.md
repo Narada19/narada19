@@ -1,7 +1,9 @@
-### Hi there 👋
+# 👋
+### - Thanks for visiting my github.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/narada19)
 
 <!--
-**thilina19/thilina19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LalithK90/LalithK90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LalithK90&show_icons=true&hide_border=true&theme=highcontrast" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=highcontrast)](https://github.com/LalithK90)
