@@ -3,7 +3,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/narada19)
 
 <!--
-**LalithK90/LalithK90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Narada19/Narada19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
