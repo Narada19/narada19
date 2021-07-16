@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ---
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thilina19&show_icons=true&hide_border=true&theme=highcontrast" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=narada19&show_icons=true&hide_border=true&theme=highcontrast" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilina19&theme=highcontrast)](https://github.com/thilina19)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narada19&theme=highcontrast)](https://github.com/thilina19)
